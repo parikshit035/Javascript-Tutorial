@@ -27,6 +27,6 @@ console.log(e);
 
 var e = 12;
 
-// Hoisting var f = undefined; goes on line one before console.log(f )
+// Hoisting var f = undefined; goes on line one before console.log(f
 
 var f = 12;
