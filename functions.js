@@ -63,3 +63,8 @@ counter(); // 2
 (function () {
 console.log("Runs immediately");
 })();
+
+function greet(a, b  ) {
+    return a + b;
+}
+console.log(sum(5, 10));
